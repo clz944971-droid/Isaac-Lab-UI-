@@ -1,6 +1,7 @@
 # Isaac Lab 强化学习 UI 快速训练控制台
 
 这是一个基于 PyQt5 开发的图形化面板，旨在简化 **Isaac Lab** 强化学习任务的训练与可视化流程。
+<img width="500" height="450" alt="图片" src="https://github.com/user-attachments/assets/b25be1bc-ebb1-4a17-9d92-46d8849b1818" />
 
 ## ✨ 主要功能
 - **自动识别任务**：选择任务文件夹，程序自动提取 Task ID。
